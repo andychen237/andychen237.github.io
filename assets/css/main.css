@@ -80,7 +80,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: url("../../images/background.png");
+		background: #000000;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2590,7 +2590,7 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("images/2001background.gif");
+		background-image: url("images/overlay.png"), url("images/moderntimescrop.gif");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
