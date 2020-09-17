@@ -80,7 +80,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+		background: #000000;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -95,7 +95,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #000000;
+		color: #ffffff;
 		font-family: Helvetica, Arial, Courier;
 		font-size: 16pt;
 		font-weight: 400;
@@ -1852,8 +1852,8 @@ input, select, textarea {
 	}
 
 		select option {
-			color: #000000;
-			background: #fff;
+			color: #ffffff;
+			background: #000000;
 		}
 
 		select:focus::-ms-value {
