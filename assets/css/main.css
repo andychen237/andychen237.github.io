@@ -95,7 +95,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: rgba(255, 255, 255, 0.5);
+		color: rgba(255, 255, 255, 0.75);
 		font-family: Helvetica, Arial, Courier;
 		font-size: 16pt;
 		font-weight: 400;
@@ -2594,7 +2594,7 @@ input, select, textarea {
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
-		color: rgba(255, 255, 255, 0.5);
+		color: rgba(255, 255, 255, 0.75);
 		height: 100%;
 		left: 0;
 		padding: 8em 4em;
