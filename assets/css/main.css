@@ -80,7 +80,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #696969;
+		background: #ffffff;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -95,7 +95,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #rgba(255, 255, 255, 0.75);
+		color: #000000;
 		font-family: Helvetica, Arial, Courier;
 		font-size: 16pt;
 		font-weight: 400;
@@ -119,8 +119,8 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #ffffff;
-		font-weight: 400;
+		color: #000000;
+		font-weight: 600;
 	}
 
 	em, i {
@@ -132,7 +132,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: rgba(51, 50, 50, 0.918);
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -1853,7 +1853,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #696969;
+			background: #000000;
 		}
 
 		select:focus::-ms-value {
@@ -1892,7 +1892,7 @@ input, select, textarea {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #696969;
+			color: #000000;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -1935,9 +1935,9 @@ input, select, textarea {
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #ffffff;
-			border-color: #ffffff;
-			color: #fff;
+			background: #000000;
+			border-color: #000000;
+			color: #000000;
 			content: '\f00c';
 		}
 
@@ -2069,7 +2069,7 @@ input, select, textarea {
 				transition: opacity 0.2s ease-in-out;
 				border-radius: 0.35em;
 				border: solid 3px rgba(255, 255, 255, 0.5);
-				color: #fff;
+				color: #000000;
 				content: 'View';
 				display: inline-block;
 				font-size: 0.8em;
@@ -2385,7 +2385,7 @@ input, select, textarea {
 		}
 
 		table th {
-			color: #ffffff;
+			color: #000000;
 			font-size: 0.9em;
 			font-weight: 400;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -2443,7 +2443,7 @@ input, select, textarea {
 		background-color: transparent;
 		border-radius: 0.35em;
 		border: solid 3px #efefef;
-		color: #ffffff !important;
+		color: #000000 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
@@ -2625,7 +2625,7 @@ input, select, textarea {
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #000000;
+			color: rgba(255, 255, 255, 0.75);
 		}
 
 		#header h1 {
